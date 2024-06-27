@@ -25,7 +25,6 @@
   <h2>Getting Started  <span class="icon"><i class="fas fa-laptop-code"></i></span></h2>
 
   <p>**Prerequisites:**</p>
-
   <ul>
     <li>A GitHub account</li>
     <li>Node.js and npm (or yarn) installed on your system (<a href="https://nodejs.org/en/learn/getting-started/how-to-install-nodejs">https://nodejs.org/en/learn/getting-started/how-to-install-nodejs</a>)</li>
@@ -100,6 +99,9 @@ content_copy
   <h2>Stay Connected  <span class="icon"><i class="fas fa-link"></i></span></h2>
 
   <p>Follow us on social media (add links to social media profiles, if applicable) to stay updated on the latest developments of AbleAI.</p>
+
+
+</html>
 
   <h2>Thank you for your interest in AbleAI!  <span class="icon"><i class="fas fa-heart"></i></span></h2>
 
