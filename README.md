@@ -57,10 +57,10 @@ npm start (or yarn start)
 <h2>Features  <span class="icon"><i class="fas fa-star"></i></span></h2>
 
 <ul>
-<li><strong>Accessible Interface <span class="success">( Achieved)</span></strong>: Employ assistive technologies like screen readers and keyboard navigation for a smooth user experience.</li>
-<li><strong>Interactive Training Modules <span class="important">(️ In Progress)</span></strong>: Deliver engaging policymaking education through interactive elements and multimedia content.</li>
+<li><strong>Accessible Interface <span class="success">( Planned)</span></strong>: Employ assistive technologies like screen readers and keyboard navigation for a smooth user experience.</li>
+<li><strong>Interactive Training Modules <span class="important">(️ Planned)</span></strong>: Deliver engaging policymaking education through interactive elements and multimedia content.</li>
 <li><strong>Personalized Learning <span class="icon"><i class="fas fa-user-cog"></i></span> (Planned)</strong>: Tailor the learning experience to individual needs and preferences.</li>
-<li><strong>Community Forum <span class="important">(️ In Progress)</span></strong>: Foster collaboration and knowledge sharing among users.</li>
+<li><strong>Community Forum <span class="important">(️ Planned)</span></strong>: Foster collaboration and knowledge sharing among users.</li>
 <li><strong>Gemini API Integration <span class="icon"><i class="fas fa-robot"></i></span> (Planned)</strong>: Leverage the power of Gemini for advanced AI-powered features like personalized learning pathways and real-time policy analysis.</li>
 </ul>
 
