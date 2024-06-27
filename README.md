@@ -24,7 +24,6 @@
     <li><strong>Inclusivity <span class="important">(️ In Progress)</span></strong>: Design an inclusive platform that welcomes users from all backgrounds and abilities, fostering a sense of belonging and participation.</li>
     <li><strong>Education <span class="icon"><i class="fas fa-graduation-cap"></i></span></strong>: Provide comprehensive and engaging policymaking training modules, empowering users with the knowledge and skills to become informed and effective advocates.</li>
     <li><strong>Community <span class="icon"><i class="fas fa-users"></i></span></strong>: Cultivate a supportive community where users can connect, share experiences, and learn from each other.</li>
-  </ul>
 
   <h2>Getting Started  <span class="icon"><i class="fas fa-laptop-code"></i></span></h2>
 
