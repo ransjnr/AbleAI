@@ -35,3 +35,5 @@
 
   ```bash
   git clone [https://github.com/](https://github.com/)<your-username>/AbleAI.git
+  ```
+<p>Install dependencies:</p>
