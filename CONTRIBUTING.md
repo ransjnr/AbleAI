@@ -3,7 +3,6 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>AbleAI: Contributing Guidelines</title>
 </head>
 <body>
   <h1>AbleAI: Contributing Guidelines <span class="icon"><i class="fas fa-hands-helping"></i></span></h1>
