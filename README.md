@@ -37,7 +37,7 @@
   <p>**Clone the repository:**</p>
 
   ```bash
-  git clone [https://github.com/](https://github.com/)<your-username>/AbleAI.git
+  git clone [https://github.com/ransjnr/AbleAI.git
   ```
 <p>Install dependencies:</p>
 
