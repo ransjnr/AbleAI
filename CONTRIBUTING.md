@@ -4,38 +4,6 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>AbleAI: Contributing Guidelines</title>
-  <style>
-    body {
-      font-family: sans-serif;
-      line-height: 1.5;
-      padding: 2rem;
-    }
-
-    h1, h2, h3 {
-      margin-top: 1rem;
-      margin-bottom: 0.5rem;
-    }
-
-    h1 {
-      font-size: 1.5em;
-    }
-
-    a {
-      color: #007bff;
-      text-decoration: none;
-    }
-
-    a:hover {
-      text-decoration: underline;
-    }
-
-    .icon {
-      font-family: Font Awesome 6 Free; /* Include Font Awesome directly */
-      font-weight: 900;
-      font-size: 1.2em;
-      margin-right: 0.5rem;
-    }
-  </style>
 </head>
 <body>
   <h1>AbleAI: Contributing Guidelines <span class="icon"><i class="fas fa-hands-helping"></i></span></h1>
