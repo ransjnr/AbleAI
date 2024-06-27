@@ -1,56 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>AbleAI: Accessible Policymaking Education</title>
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css" integrity="sha512-KfkfwYDsLkIlwQp6LFnl8zNdLGxu9YAA1QvwINks4PhcElQSvqcyVLLD9aMhXd13uQjoXtEKNosOWaZqXgel0g==" crossorigin="anonymous" referrerpolicy="no-referrer" />
-  <style>
-    body {
-      font-family: sans-serif;
-      line-height: 1.5;
-      padding: 2rem;
-      color: #333;
-    }
-
-    h1, h2, h3 {
-      margin-top: 1rem;
-      margin-bottom: 0.5rem;
-    }
-
-    h1 {
-      font-size: 2em;
-      color: #007bff;
-    }
-
-    h2 {
-      font-size: 1.5em;
-      color: #2fa4e8;
-    }
-
-    a {
-      color: #007bff;
-      text-decoration: none;
-    }
-
-    a:hover {
-      text-decoration: underline;
-    }
-
-    .icon {
-      font-size: 1.2em;
-      margin-right: 0.5rem;
-    }
-
-    .important {
-      font-weight: bold;
-    }
-
-    .success {
-      color: green;
-    }
-  </style>
-</head>
 <body>
   <h1>AbleAI: Accessible Policymaking Education for People with Disabilities <span class="icon"><i class="fas fa-balance-scale">⚖️</i></span></h1>
 
